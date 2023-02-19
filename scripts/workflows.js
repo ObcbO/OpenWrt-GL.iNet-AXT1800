@@ -8,12 +8,12 @@
  * @official 是否官方编译界面
  */
  module.exports = [
-  {
-    model: 'ax1800',
-    config: 'config-wlan-ap',
-    target: 'target_wlan_ap-gl-ax1800',
-    official: true,
-  },
+  //{
+  //  model: 'ax1800',
+  //  config: 'config-wlan-ap',
+  //  target: 'target_wlan_ap-gl-ax1800',
+  //  official: true,
+  //},
   //{
   //  model: 'axt1800',
   //  config: 'config-wlan-ap',
@@ -50,14 +50,14 @@
   //   target: 'target_siflower_gl-sft1200',
   //   official: false,
   // },
-  // {
-  //   name: 'build-glinet-ax1800-5.4',
-  //   model: 'ax1800',
-  //   config: 'config-wlan-ap-5.4',
-  //   target: 'target_wlan_ap-gl-ax1800-5-4',
-  //   build: 'glinet-ax1800-5-4',
-  //   official: true,
-  // },
+   {
+     name: 'build-glinet-ax1800-5.4',
+     model: 'ax1800',
+     config: 'config-wlan-ap-5.4',
+     target: 'target_wlan_ap-gl-ax1800-5-4',
+     build: 'glinet-ax1800-5-4',
+     official: true,
+   },
   // {
   //   name: 'build-glinet-axt1800-5.4',
   //   model: 'axt1800',
