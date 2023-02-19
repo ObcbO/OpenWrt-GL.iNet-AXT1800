@@ -16,11 +16,11 @@ feeds:
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
-    revision: d982511215f5a72cf510ecd0cb9e4c4751663bfb
+    revision: c066ddcc6d1eb8849b1b3a131609a6c149b0a054
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
-    revision: 0ca72a0d55b8a6df9aca87f0df6a0108ed3673e7
+    revision: ec102d99aff0ad9f7cf31621ded949ea35855a9f
 include:
   - wifi-ax
 packages:
@@ -56,7 +56,6 @@ packages:
   - luci-app-fileassistant
   - luci-theme-argon
   - luci-app-argon-config
-  - luci-app-ssr-plus
   - luci-app-openclash
   - luci-app-zerotier
   - luci-app-openvpn
@@ -64,4 +63,3 @@ packages:
   - luci-app-pushbot
   - luci-app-aliyundrive-webdav
   - luci-app-turboacc
-  - luci-app-uugamebooster
