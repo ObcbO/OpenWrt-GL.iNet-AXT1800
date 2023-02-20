@@ -52,14 +52,8 @@ packages:
   - luci-app-wol
   - luci-app-autoreboot
   - luci-app-commands
-  - luci-app-sms-tool
+  - luci-app-homebox
   - luci-app-fileassistant
-  - luci-theme-argon
-  - luci-app-argon-config
   - luci-app-openclash
-  - luci-app-zerotier
-  - luci-app-openvpn
   - luci-app-unblockmusic
-  - luci-app-pushbot
-  - luci-app-aliyundrive-webdav
   - luci-app-turboacc
