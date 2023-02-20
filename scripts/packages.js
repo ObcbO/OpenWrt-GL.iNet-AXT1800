@@ -123,18 +123,18 @@
     name: 'luci-app-commands',
     desc: '自定义命令',
   },
-  {
-    name: 'luci-app-sms-tool',
-    desc: '4G/5G模组短信工具',
-  },
+  //{
+  //  name: 'luci-app-sms-tool',
+  //  desc: '4G/5G模组短信工具',
+  //},
   // {
   // name: 'luci-app-mwan3helper',
   // desc: '负载均衡',
   // },
-  // {
-  //   name: 'luci-app-homebox',
-  //   desc: '内网测速',
-  // },
+   {
+     name: 'luci-app-homebox',
+     desc: '内网测速',
+   },
   {
     name: 'luci-app-fileassistant',
     desc: '文件管理助手',
@@ -149,14 +149,14 @@
   //   name: 'luci-theme-edge',
   //   desc: 'Edge主题',
   // },
-  {
-    name: 'luci-theme-argon',
-    desc: 'Argon主题',
-  },
-  {
-    name: 'luci-app-argon-config',
-    desc: 'Argon主题设置',
-  },
+  //{
+  //  name: 'luci-theme-argon',
+  //  desc: 'Argon主题',
+  //},
+  //{
+  //  name: 'luci-app-argon-config',
+  //  desc: 'Argon主题设置',
+  //},
 
   //科学上网
   // {
@@ -203,14 +203,14 @@
   // },
 
   //应用
-  {
-    name: 'luci-app-zerotier',
-    desc: 'ZeroTier内网穿透',
-  },
-  {
-    name: 'luci-app-openvpn',
-    desc: 'OpenVPN客户端',
-  },
+  //{
+  //  name: 'luci-app-zerotier',
+  //  desc: 'ZeroTier内网穿透',
+  //},
+  //{
+  //  name: 'luci-app-openvpn',
+  //  desc: 'OpenVPN客户端',
+  //},
   // {
   //   name: 'luci-app-docker',
   //   desc: 'Docker容器',
@@ -235,14 +235,14 @@
   //   name: 'luci-app-unblockneteasemusic',
   //   desc: '解锁网易云NodeJS版本',
   // },
-  {
-    name: 'luci-app-pushbot',
-    desc: '全能推送（钉钉推送，企业微信推送，Bark，PushPlus推送）',
-  },
-  {
-    name: 'luci-app-aliyundrive-webdav',
-    desc: '阿里云盘WebDAV服务',
-  },
+  //{
+  //  name: 'luci-app-pushbot',
+  //  desc: '全能推送（钉钉推送，企业微信推送，Bark，PushPlus推送）',
+  //},
+  //{
+  //  name: 'luci-app-aliyundrive-webdav',
+  //  desc: '阿里云盘WebDAV服务',
+  //},
   {
     name: 'luci-app-turboacc',
     desc: 'Turbo ACC 网络加速(支持Fast Path或者硬件NAT)',
