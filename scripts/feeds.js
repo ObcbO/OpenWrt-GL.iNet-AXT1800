@@ -56,4 +56,9 @@
   //   uri: 'https://github.com/Lienol/openwrt-package.git',
   //   branch: 'main',
   // },
+  {
+    name: 'luci-theme-design',
+    uri: 'https://github.com/gngpp/luci-theme-design.git',
+    branch: 'main',
+  },
 ];
