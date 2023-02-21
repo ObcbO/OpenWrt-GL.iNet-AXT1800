@@ -21,7 +21,7 @@ feeds:
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
     revision: f38801e4a473040f7bede705ad4658eedcc3d9bc
-  - name: luci-theme-design
+  - name: design
     uri: https://github.com/gngpp/luci-theme-design.git
     branch: main
     revision: 5900e46109057581e3fd16db5126c25e4fc1a48c
