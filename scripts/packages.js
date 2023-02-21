@@ -145,6 +145,10 @@
   // },
 
   //主题
+  {
+    name: 'luci-theme-design',
+    desc: 'Design主题',
+  },
   // {
   //   name: 'luci-theme-edge',
   //   desc: 'Edge主题',
