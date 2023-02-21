@@ -57,7 +57,7 @@
   //   branch: 'main',
   // },
   {
-    name: 'luci-theme-design',
+    name: 'design',
     uri: 'https://github.com/gngpp/luci-theme-design.git',
     branch: 'main',
   },
