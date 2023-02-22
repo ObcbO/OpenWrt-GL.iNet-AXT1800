@@ -57,8 +57,8 @@
   //   branch: 'main',
   // },
   {
-    name: 'design',
-    uri: 'https://github.com/gngpp/luci-theme-design.git',
+    name: 'theme_packages',
+    uri: 'https://github.com/ObcbO/Theme_Packages.git',
     branch: 'main',
   },
 ];
