@@ -20,7 +20,7 @@ feeds:
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
-    revision: 80d0767b337768f95eb3d57a3921bdc3f383d9b6
+    revision: 2ff78a5dfcecc90bec1b6745622d5f5227c1335d
   - name: theme_packages
     uri: https://github.com/ObcbO/Theme_Packages.git
     branch: main
@@ -60,5 +60,6 @@ packages:
   - luci-app-fileassistant
   - luci-theme-design
   - luci-app-openclash
-  - luci-app-unblockmusic
+  - luci-app-unblockneteasemusic
   - luci-app-turboacc
+  - luci-app-cpufreq
