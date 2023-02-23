@@ -227,18 +227,18 @@
   //   name: 'luci-app-adguardhome',
   //   desc: 'AdGuard home广告过滤',
   // },
-  {
-    name: 'luci-app-unblockmusic',
-    desc: '解锁网易云灰色歌曲3合1新版本',
-  },
+  //{
+  //  name: 'luci-app-unblockmusic',
+  //  desc: '解锁网易云灰色歌曲3合1新版本',
+  //},
   // {
   //   name: 'luci-app-unblockneteasemusic-go',
   //   desc: '解锁网易云Golang版本',
   // },
-  // {
-  //   name: 'luci-app-unblockneteasemusic',
-  //   desc: '解锁网易云NodeJS版本',
-  // },
+  {
+    name: 'luci-app-unblockneteasemusic',
+    desc: '解锁网易云NodeJS版本',
+  },
   //{
   //  name: 'luci-app-pushbot',
   //  desc: '全能推送（钉钉推送，企业微信推送，Bark，PushPlus推送）',
@@ -250,6 +250,10 @@
   {
     name: 'luci-app-turboacc',
     desc: 'Turbo ACC 网络加速(支持Fast Path或者硬件NAT)',
+  },
+  {
+    name: 'luci-app-cpufreq',
+    desc: 'CPU 性能优化调节',
   },
   // {
   //   name: 'luci-app-uugamebooster',
