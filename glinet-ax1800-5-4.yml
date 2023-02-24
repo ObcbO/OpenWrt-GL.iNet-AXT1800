@@ -20,11 +20,11 @@ feeds:
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
-    revision: 2ff78a5dfcecc90bec1b6745622d5f5227c1335d
+    revision: 5d2617661174b01032b206584f4f89279259a03e
   - name: theme_packages
     uri: https://github.com/ObcbO/Theme_Packages.git
     branch: main
-    revision: e8c3247d27f790519b3e573a6c08e2870e083c43
+    revision: 8be4bfddbae1c480161c87d04ecd0b315fdcb696
 include:
   - wifi-ax
 packages:
@@ -52,14 +52,13 @@ packages:
   - luci-app-arpbind
   - luci-app-upnp
   - luci-app-firewall
-  - luci-app-ddns
   - luci-app-wol
   - luci-app-autoreboot
   - luci-app-commands
   - luci-app-homebox
   - luci-app-fileassistant
+  - luci-app-smartdns
   - luci-theme-design
   - luci-app-openclash
   - luci-app-unblockneteasemusic
   - luci-app-turboacc
-  - luci-app-cpufreq
