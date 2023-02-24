@@ -24,7 +24,7 @@ feeds:
   - name: theme_packages
     uri: https://github.com/ObcbO/Theme_Packages.git
     branch: main
-    revision: 11bd314989ec1123b0b4152f2b252c038ae50501
+    revision: d11e1f0560408eff056d2aaa6d7e61d47c679422
 include:
   - wifi-ax
 packages:
