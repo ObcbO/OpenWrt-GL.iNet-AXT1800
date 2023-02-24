@@ -75,10 +75,10 @@
     name: 'luci-app-diskman',
     desc: '磁盘管理工具',
   },
-  {
-    name: 'luci-app-watchcat',
-    desc: '断网检测功能与定时重启',
-  },
+  // {
+  //   name: 'luci-app-watchcat',
+  //   desc: '断网检测功能与定时重启',
+  // },
   {
     name: 'luci-app-ramfree',
     desc: '释放内存',
@@ -111,18 +111,18 @@
   //   name: 'luci-app-ddns',
   //   desc: '动态域名（DDNS）',
   // },
-  {
-    name: 'luci-app-wol',
-    desc: 'WOL网络唤醒',
-  },
+  // {
+  //   name: 'luci-app-wol',
+  //   desc: 'WOL网络唤醒',
+  // },
   {
     name: 'luci-app-autoreboot',
     desc: '支持计划重启',
   },
-  {
-    name: 'luci-app-commands',
-    desc: '自定义命令',
-  },
+  // {
+  //   name: 'luci-app-commands',
+  //   desc: '自定义命令',
+  // },
   //{
   //  name: 'luci-app-sms-tool',
   //  desc: '4G/5G模组短信工具',
@@ -143,10 +143,6 @@
   //   name: 'luci-app-guest-wifi',
   //   desc: 'WiFi访客网络',
   // },
-  {
-    name: 'luci-app-smartdns',
-    desc: '智能DNS',
-  },
 
   //主题
   {
