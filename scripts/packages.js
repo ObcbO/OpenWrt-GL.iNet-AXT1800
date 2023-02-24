@@ -107,10 +107,10 @@
     name: 'luci-app-firewall',
     desc: '添加防火墙',
   },
-  {
-    name: 'luci-app-ddns',
-    desc: '动态域名（DDNS）',
-  },
+  // {
+  //   name: 'luci-app-ddns',
+  //   desc: '动态域名（DDNS）',
+  // },
   {
     name: 'luci-app-wol',
     desc: 'WOL网络唤醒',
@@ -131,10 +131,10 @@
   // name: 'luci-app-mwan3helper',
   // desc: '负载均衡',
   // },
-   {
-     name: 'luci-app-homebox',
-     desc: '内网测速',
-   },
+  {
+    name: 'luci-app-homebox',
+    desc: '内网测速',
+  },
   {
     name: 'luci-app-fileassistant',
     desc: '文件管理助手',
@@ -143,6 +143,10 @@
   //   name: 'luci-app-guest-wifi',
   //   desc: 'WiFi访客网络',
   // },
+  {
+    name: 'luci-app-smartdns',
+    desc: '智能DNS',
+  },
 
   //主题
   {
@@ -251,10 +255,10 @@
     name: 'luci-app-turboacc',
     desc: 'Turbo ACC 网络加速(支持Fast Path或者硬件NAT)',
   },
-  {
-    name: 'luci-app-cpufreq',
-    desc: 'CPU 性能优化调节',
-  },
+  // {
+  //   name: 'luci-app-cpufreq',
+  //   desc: 'CPU 性能优化调节',
+  // },
   // {
   //   name: 'luci-app-uugamebooster',
   //   desc: 'UU网游加速器',
