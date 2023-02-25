@@ -16,11 +16,15 @@ feeds:
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
-    revision: 8fcd541abd7726756993f8547344b8625071ce83
+    revision: ba56467d16b06aa9e654cedca454ce67320e4619
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
-    revision: 021f3a39d25461412388040de6fa55d78f5d1867
+    revision: 3ecb52647ee8c0e0d9f65a9318276a81e3409fbd
+  - name: kenzok8_packages
+    uri: https://github.com/kenzok8/openwrt-packages.git
+    branch: master
+    revision: 0d1c11dd3f21c523dc1782775f173453d1cb2416
   - name: theme_packages
     uri: https://github.com/ObcbO/Theme_Packages.git
     branch: main
