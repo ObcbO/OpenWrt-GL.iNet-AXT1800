@@ -20,11 +20,11 @@ feeds:
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
-    revision: 3ecb52647ee8c0e0d9f65a9318276a81e3409fbd
+    revision: d52ad542fdd4c7a2292c76fa0249dfbd32783b92
   - name: kenzok8_packages
     uri: https://github.com/kenzok8/openwrt-packages.git
     branch: master
-    revision: 0d1c11dd3f21c523dc1782775f173453d1cb2416
+    revision: 3c52520c1c231adf7b7c31f2d18d0d0aa3398c8a
   - name: theme_packages
     uri: https://github.com/ObcbO/Theme_Packages.git
     branch: main
