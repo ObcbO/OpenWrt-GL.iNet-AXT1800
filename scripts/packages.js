@@ -236,8 +236,8 @@
   //   desc: '解锁网易云Golang版本',
   // },
   {
-    name: 'luci-app-unblockneteasemusic',
-    desc: '解锁网易云NodeJS版本',
+    name: 'luci-app-unblockneteasemusic-2102',
+    desc: '解锁网易云',
   },
   //{
   //  name: 'luci-app-pushbot',
