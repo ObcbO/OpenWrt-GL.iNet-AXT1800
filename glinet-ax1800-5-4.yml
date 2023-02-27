@@ -59,6 +59,7 @@ packages:
   - luci-app-homebox
   - luci-app-fileassistant
   - luci-theme-design
+  - luci-app-passwall2
   - luci-app-openclash
   - luci-app-unblockneteasemusic-2102
   - luci-app-turboacc
