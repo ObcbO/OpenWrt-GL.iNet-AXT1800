@@ -41,8 +41,7 @@ env:
 
 jobs:
   build:
-    # runs-on: ubuntu-20.04
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
     - name: Checkout
