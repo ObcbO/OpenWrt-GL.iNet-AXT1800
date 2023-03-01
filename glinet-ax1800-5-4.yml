@@ -16,15 +16,15 @@ feeds:
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
-    revision: e41ca8f2bddf42f4daeb1a03eb190ea46b78e2f4
+    revision: 1ead491b80ecd3e3b579a71d8c8d7e69aed86a68
   - name: NueXini_Packages
     uri: https://github.com/NueXini/NueXini_Packages.git
     branch: main
-    revision: b6afaeece760e2101201c8671c73d4d90676156b
+    revision: b18f4a25af61d4ea6b6ea179ba840ea62bff825a
   - name: kenzok8_packages
     uri: https://github.com/kenzok8/openwrt-packages.git
     branch: master
-    revision: 387c07c64b4fca3a7735be37b5920efc59f37725
+    revision: 31aac5d9dcfb1a1c5d1ec7043b714dba82d87f82
   - name: theme_packages
     uri: https://github.com/ObcbO/Theme_Packages.git
     branch: main
@@ -59,7 +59,6 @@ packages:
   - luci-app-homebox
   - luci-app-fileassistant
   - luci-theme-design
-  - luci-app-passwall2
   - luci-app-openclash
   - luci-app-unblockneteasemusic-2102
   - luci-app-turboacc
