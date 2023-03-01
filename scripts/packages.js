@@ -175,10 +175,10 @@
   //   name: 'luci-app-passwall',
   //   desc: 'Passwall代理',
   // },
-  {
-    name: 'luci-app-passwall2',
-    desc: 'Passwall2代理',
-  },
+  // {
+  //   name: 'luci-app-passwall2',
+  //   desc: 'Passwall2代理',
+  // },
   // {
   //   name: 'luci-app-vssr',
   //   desc: 'Hello World代理',
