@@ -46,11 +46,11 @@
     uri: 'https://github.com/NueXini/NueXini_Packages.git',
     branch: 'main',
   },
-  {
-    name: 'kenzok8_packages',
-    uri: 'https://github.com/kenzok8/openwrt-packages.git',
-    branch: 'master',
-  }, 
+  // {
+  //   name: 'kenzok8_packages',
+  //   uri: 'https://github.com/kenzok8/openwrt-packages.git',
+  //   branch: 'master',
+  // }, 
   // {
   //   name: 'lienol_packages',
   //   uri: 'https://github.com/Lienol/openwrt-package.git',
