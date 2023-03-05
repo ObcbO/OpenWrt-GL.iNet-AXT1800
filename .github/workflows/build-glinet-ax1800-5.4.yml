@@ -181,7 +181,7 @@ jobs:
         echo "${releaseReadme}" >> release.txt
         [ $UPLOAD_WETRANSFER = true ] && echo "- 🔗 后台地址：192.168.8.1" >> release.txt
         [ $UPLOAD_WETRANSFER = true ] && echo "- 🌐 WiFi名称：GL-AXT1800-2.4GHz和GL-AXT1800-5GHz" >> release.txt
-        echo -e "## ✨ 主要功能\n1. kmod-usb-ledtrig-usbport\n2. kmod-usb-net-cdc-mbim\n3. kmod-usb-net-sierrawireless\n4. usbutils\n5. minicom\n6. procps-ng\n7. procps-ng-ps\n8. grep\n9. lsblk\n10. fdisk\n11. cfdisk\n12. Netdata实时监控\n13. 网页终端命令行\n14. 网络带宽监视器\n15. 实时流量监测\n16. 磁盘管理工具\n17. 释放内存\n18. 基于IP地址限速\n19. 访问时间控制\n20. IP/MAC绑定\n21. 通用即插即用UPnP（端口自动转发）\n22. 添加防火墙\n23. 支持计划重启\n24. 内网测速\n25. 文件管理助手\n26. Design主题\n27. Clash代理\n28. 解锁网易云\n29. Turbo ACC 网络加速(支持Fast Path或者硬件NAT)" >> release.txt
+        echo -e "## ✨ 主要功能\n1. kmod-usb-ledtrig-usbport\n2. kmod-usb-net-cdc-mbim\n3. kmod-usb-net-sierrawireless\n4. usbutils\n5. minicom\n6. procps-ng\n7. procps-ng-ps\n8. grep\n9. lsblk\n10. fdisk\n11. cfdisk\n12. Netdata实时监控\n13. 网页终端命令行\n14. 网络带宽监视器\n15. 实时流量监测\n16. 磁盘管理工具\n17. 释放内存\n18. 基于IP地址限速\n19. 访问时间控制\n20. IP/MAC绑定\n21. 通用即插即用UPnP（端口自动转发）\n22. 添加防火墙\n23. 支持计划重启\n24. 内网测速\n25. 文件管理助手\n26. Design主题\n27. Passwall2代理\n28. Clash代理\n29. Turbo ACC 网络加速(支持Fast Path或者硬件NAT)" >> release.txt
         echo "::set-output name=status::success"
 
     - name: Upload firmware to release
