@@ -175,10 +175,10 @@
   //   name: 'luci-app-passwall',
   //   desc: 'Passwall代理',
   // },
-  // {
-  //   name: 'luci-app-passwall2',
-  //   desc: 'Passwall2代理',
-  // },
+  {
+    name: 'luci-app-passwall2',
+    desc: 'Passwall2代理',
+  },
   // {
   //   name: 'luci-app-vssr',
   //   desc: 'Hello World代理',
@@ -235,10 +235,10 @@
   //   name: 'luci-app-unblockneteasemusic-go',
   //   desc: '解锁网易云Golang版本',
   // },
-  {
-    name: 'luci-app-unblockneteasemusic-2102',
-    desc: '解锁网易云',
-  },
+  // {
+  //   name: 'luci-app-unblockneteasemusic-2102',
+  //   desc: '解锁网易云',
+  // },
   //{
   //  name: 'luci-app-pushbot',
   //  desc: '全能推送（钉钉推送，企业微信推送，Bark，PushPlus推送）',
